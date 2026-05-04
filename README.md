@@ -118,5 +118,5 @@ Dieses Repository enthält mein Projektportfolio, einschließlich:
 
 # 🔗 Contact
 
-- LinkedIn: [Your LinkedIn Link]  
-- GitHub: [Your GitHub Profile]  
+- LinkedIn: www.linkedin.com/in/oza-jay/  
+- GitHub: https://github.com/EmbeddedCoder06?tab=repositories 
