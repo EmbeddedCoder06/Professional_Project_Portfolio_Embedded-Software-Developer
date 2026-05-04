@@ -90,11 +90,12 @@ Embedded Softwareentwickler mit Erfahrung in **AUTOSAR-basierter Steuergeräteen
 
 # 🧠 Technical Skills | Technische Kompetenzen
 
-**Programming:** C, C++, MATLAB  
-**Embedded Systems:** AUTOSAR, MCAL, ECU Development  
-**Protocols:** CAN, CANopen, CANsafety, XCP  
-**Processes:** ASPICE, V-Model  
-**Tools:** CANoe, CANalyzer, DaVinci Configurator, DOORS, Git  
+**Programming:** C (Advanced), C++ (Basic Knowledge/Grundkenntnisse), Python (Basic Knowledge/Grundkenntnisse)
+**Standards:** ISO26262, AUTOSAR, MIL-STD-1553B, DO-178, MISRA-C  
+**Protocols:** SPI, CAN, CANopen, CANsafety, XCP  
+**Processes:** ASPICE, V-Model, Agile  
+**Tools:** Trace32, Polarion, CANoe, CANape, DaVinci Configurator, DOORS, Enterprise Architect, Git, Gitlab, Gitextensions  
+**IDE:** Visual Studio Code, STM32Cube, Eclipse, KEIL µVision, PyCharm
 **Other:** UML, Debugging, Hardware Analysis (Oszilloskop)  
 
 ---
@@ -103,13 +104,13 @@ Embedded Softwareentwickler mit Erfahrung in **AUTOSAR-basierter Steuergeräteen
 
 ### 🇬🇧
 This repository contains my project portfolio, including:
-- Detailed project descriptions  
+- Detailed project descriptions  (Code files are not included due to NDA restrictions)
 - System architectures and technical overviews  
 - Downloadable portfolio (PDF)  
 
 ### 🇩🇪
 Dieses Repository enthält mein Projektportfolio, einschließlich:
-- Detaillierter Projektbeschreibungen  
+- Detaillierter Projektbeschreibungen  (Die Quelldateien sind aufgrund von Geheimhaltungsvereinbarungen nicht enthalten.)
 - Systemarchitekturen und technische Übersichten  
 - Downloadbare Portfolio-Datei (PDF)  
 
