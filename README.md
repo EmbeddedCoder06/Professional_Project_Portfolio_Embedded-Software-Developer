@@ -17,6 +17,8 @@ Embedded Softwareentwickler mit Erfahrung in **AUTOSAR-basierter Steuergeräteen
 
 ## 📄 Portfolio (Download)
 
+Detailed Project description with System diagrams
+
 👉 [Download Full Project Portfolio (PDF)](Projektportfolio_JO.pdf)
 
 ---
